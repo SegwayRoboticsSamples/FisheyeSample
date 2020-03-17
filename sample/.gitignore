@@ -1,0 +1,12 @@
+/build
+/.gradle
+/grale
+/.idea
+/local.properties
+/*.iml
+/gradlew
+/gradlew.bat
+/gradle-wrapper.jar
+src/main/jniLibs
+src/main/jni/.vscode
+/.externalNativeBuild
